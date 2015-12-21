@@ -1,6 +1,6 @@
 # jd1875.github.io
-## Data Science Specialization 
+## Data  
 
-* Uses R 
++ Uses R 
 * Nine courses 
-* Goes from raw data to data products
+- Goes from raw data to data products
